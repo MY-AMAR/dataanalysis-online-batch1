@@ -1,0 +1,66 @@
+scikit learn - no manual writing to apply formula.. modules are imported.
+
+Numerical data
+
+
+discrete data:
+
+Discrete data is information that can only take certain values. These values don’t have to be whole numbers (a child might have a shoe size of 3.5 or a company may make a profit of £3456.25 for example) but they are fixed values – a child cannot have a shoe size of 3.72!
+
+continuous data:
+
+Continuous data is data that can take any value. Height, weight, temperature and length are all examples of continuous data. Some continuous data will change over time; the weight of a baby in its first year or the temperature in a room throughout the day.
+
+
+Categorical data: 
+ non numerical data
+
+languages for data analysis :pyton or R 
+
+tools for data analysis: powebi tabue for data analysis
+
+JUPYTER advantages:
+execute or can document to pdf
+
+.ipng
+
+Markdown language in jupyter for documentaion similar to HTML
+
+Two modes in the cell
+1.Mark down -------> m
+2. code mode---------> y
+
+To run a cell short cut is Shift + Enter
+
+# for heading 
+6 number of hashes
+Space after #
+
+
+** for bold**
+* for italic *
+*** for bold and italic ***
+No space after *
+
+lists
+
+unordered list
+- unordered list 
+tab space and allowed symbols for items
+
+Ordered list
+use numbers
+use tabs for sub items
+
+Hyper link
+
+[click here]('target link')
+
+
+image link
+
+![image]('target link')
+in offline mode no quotations
+
+
+
